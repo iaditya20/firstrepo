@@ -3,7 +3,7 @@ def ask():
         try:  #try block
             n=int(input("Enter a number: "))
         except:  #except block
-            print("This isn't a number,please enter a number")
+            print("This isn't a number,please enter a NUMBER")
             continue
         else:
             break

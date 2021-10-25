@@ -12,4 +12,6 @@ def ask():
     print(n**2)
     print('Good work ')
     print("This is by akash")
+
+    print("Bye")
 ask()

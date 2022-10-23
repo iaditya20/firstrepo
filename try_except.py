@@ -12,6 +12,7 @@ def ask():
     print(n**2)
     print('Good work ')
     print("This is by akash")
+    
     print("This is a minor commit")
     print("Bye")
-ask()
+ask()#function calling
